@@ -1,0 +1,12 @@
+dependencies:
+- rpm:
+  - java-devel
+- rpm:
+  - maven
+devassistant_version: 0.9.4
+original_kwargs:
+  github: !!python/unicode 'davedoros'
+  name: !!python/unicode '/home/dave/Java_SecondStart'
+project_type:
+- java
+- maven
